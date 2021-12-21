@@ -1,0 +1,8 @@
+{
+    "Auth": true,
+    "AAA": true,
+    "Users": true,
+    "Education": true,
+    "Help": true,
+    "Seed": true
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Seed",
+    "alias": "seed",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Seed\\Providers\\SeedServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
