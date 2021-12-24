@@ -20,6 +20,10 @@ class StudentsController extends Controller
     public function index()
     {
         $students = Student::all();
+
+        /*دکمه ctrl + k رو که بزنید کامیت میشه*/
+
+
         return view('users::students.index', compact('students'));
     }
 
