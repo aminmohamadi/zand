@@ -33,7 +33,6 @@ class StudentsController extends Controller
      */
     public function create()
     {
-
         $action = route('student.store');
         $panelTitle = "ایجاد دانشجو";
         $student = new Student();
