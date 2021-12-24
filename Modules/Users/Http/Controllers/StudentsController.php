@@ -23,7 +23,6 @@ class StudentsController extends Controller
 
         /*دکمه ctrl + k رو که بزنید کامیت میشه*/
 
-
         return view('users::students.index', compact('students'));
     }
 
